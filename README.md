@@ -1,2 +1,2 @@
-# the_spirit_sip
+# The_Spirit_Sip
 The Spirit Sip game project    
