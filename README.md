@@ -1,2 +1,2 @@
-# The_Spirit_Sip
-The Spirit Sip --- DTG game project    
+# The Spirit Sip
+This game is a
